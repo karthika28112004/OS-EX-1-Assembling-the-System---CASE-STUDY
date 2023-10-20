@@ -54,5 +54,5 @@ Finally, plug the surge protector into a wall outlet. You may also need to turn 
 
 If you have a printer, scanner, webcam, or other peripherals, you can connect them at this point. Many peripherals are plug and play, which means they will be recognized by your computer as soon as they are plugged in.Other peripherals may include software that needs to be installed before you can begin using them. Use the instructions included with the device to install it if necessary.
 
-RESULT:
+# RESULT:
 The Computer System has been successfully assembled
